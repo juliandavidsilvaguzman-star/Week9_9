@@ -1,5 +1,7 @@
 # Week9_9
 
+Integrantes: DIEGO ALEJANDRO RUIZ ALFONSO - ppmurcia@ucundinamarca.edu.co PEDRO PASCUAL MURCIA VARGAS - ppmurcia@ucundinamarca.edu.co JHON EDUARD TINJACA CRUZ - jetinjaca@ucundinamarca.edu.co JULIAN DAVID SILVA GUZMAN - jdsilva@ucundinamarca.edu.co
+
 # README: Clasificación de Imágenes con Data Augmentation y Transfer Learning
 
 Este notebook explora dos técnicas fundamentales en el Deep Learning para la clasificación de imágenes: **Data Augmentation** y **Transfer Learning**. El objetivo es demostrar cómo estas estrategias pueden mejorar significativamente la generalización y el rendimiento de los modelos, especialmente en escenarios con datasets limitados.
